@@ -1,2 +1,1 @@
-# douglas-dinosaur
-Douglas Dinosaur's repo
+# Douglas Dinosaur's repo
